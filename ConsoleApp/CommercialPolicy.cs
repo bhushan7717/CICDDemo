@@ -13,6 +13,7 @@ namespace ConsoleApp
         public string Name { get; set; }
         public string Description { get; set; }
 
+        // action property added
         public bool IsActive { get; set; }
     }
 }
